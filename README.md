@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Himani Parida</h1>
 <h3 align="center">I love programming software that enriches others lives</h3>
 
-- 🔭 I’m currently working on **Facial Recognition**
+- 🔭 I’m currently working on **Different Projects**
 
 - 🌱 I’m currently learning **Data Science and Frontend**
 
 - 🤝 I’m looking for help with **Frontend Projects**
 
-- 💬 Ask me about **Python, HTML, CSS, JS**
+- 💬 Ask me about **Python, HTML, CSS, JS, Flask, Django, SQL**
 
 - 📫 How to reach me **paridahimani2001@gmail.com**
 
